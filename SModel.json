@@ -11,18 +11,29 @@
     },
     "Global_Messages": 
     {
-        "1.0.0.0":[
+        "1.0.0.0": [
             {
-                "Message" : "SModel",
+                "Message" : "SModel - FortTellLeaks",
                 "Color" : "#EFEFEF",
                 "bNewLine": true
-            },
+            }
+        ],
+        "1.0.0.1": [
             {
-                "Message" : "User Confimed - @LunakisLeaks",
-                "Color" : "	#008000",
+                "Message" : "Added LunakisLeaks",
+                "Color" : "#1E8449",
                 "bNewLine": true
             },
-        ],
-        
+            {
+                "Message" : "Added Resources To Server",
+                "Color" : "#1E8449",
+                "bNewLine": true
+            },
+            {
+                "Message" : "Removed AES Manager",
+                "Color" : "#E74C3C",
+                "bNewLine": true
+            },
+        ]
     }
 }
