@@ -52,18 +52,18 @@
         ],
         "1.0.0.2": [
             {
-                "Message" : "Added LunakisLeaks",
+                "Message" : "SModel Created By FortTellLeaks",
                 "Color" : "#EFEFEF",
                 "bNewLine": true
             },
             {
-                "Message" : "Added Resources To Server",
-                "Color" : "#EFEFEF",
+                "Message" : "Stop Button Won't End Download Processes",
+                "Color" : "#FF0000",
                 "bNewLine": true
             },
             {
-                "Message" : "Removed AES Manager",
-                "Color" : "#EFEFEF",
+                "Message" : "Settings Will Not Open",
+                "Color" : "FF0000",
                 "bNewLine": true
             }
         ]
