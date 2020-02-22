@@ -58,17 +58,17 @@
             },
             {
                 "Message" : "Bugs/Issues¬",
-                "Color" : "White",
+                "Color" : "#FFFFFF",
                 "bNewLine": true
             },
             {
                 "Message" : "Stop Button Won't End Download Processes",
-                "Color" : "Red",
+                "Color" : "#FF0000",
                 "bNewLine": true
             },
             {
                 "Message" : "Settings Will Not Open",
-                "Color" : "Red",
+                "Color" : "#FF0000",
                 "bNewLine": true
             }
         ]
