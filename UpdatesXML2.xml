@@ -4,5 +4,5 @@
     https://github.com/SModelFN/SModel/releases/latest/download/SModel.zip
   </url>
  <changelog>https://github.com/SModelFN/SModel/releases/latest/download/</changelog>
- <mandatory>false</mandatory>
+ <mandatory>true</mandatory>
 </item>
