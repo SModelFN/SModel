@@ -37,12 +37,12 @@
 <h2>Credits</h2>
 <p>This software uses these packages:</p>
 <ul>
-<li><a href="https://github.com/WorkingRobot/PakReader">PakReader</a>&nbsp;<em>Updated Version</em></li>
+<li><a href="https://github.com/WorkingRobot/PakReader">PakReader</a>&nbsp;</li>
 <li><a href="https://github.com/ravibpatel/AutoUpdater.NET">AutoUpdater.NET</a></li>
 <li><a href="https://html-agility-pack.net/" rel="nofollow">Html Agility Pack (HAP)</a></li>
 <li><a href="https://www.newtonsoft.com/json" rel="nofollow">Newtonsoft Json.NET</a></li>
 <li><a href="https://github.com/caioproiete/ookii-dialogs-wpf">Ookii Dialogs</a></li>
-<li><a href="http://http//restsharp.org//" rel="nofollow">RestSharp</a></li>
+<li><a href="http://restsharp.org//" rel="nofollow">RestSharp</a></li>
 <li><a href="https://github.com/mono/SkiaSharp">SkiaSharp</a></li>
 <li><a href="https://github.com/DanPristupov/WpfExpressionBlendTheme">WPFThemes DarkBlend</a></li>
 <li><a href="https://github.com/reneschulte/WriteableBitmapEx">Writeable Bitmap Extensions</a></li>
