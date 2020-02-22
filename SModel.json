@@ -15,7 +15,7 @@
             {
                 "Message" : "SModel",
                 "Color" : "#EFEFEF",
-                "bNewLine": false
+                "bNewLine": true
             },
             {
                 "Message" : "Update For v12.00 Successful",
