@@ -33,3 +33,25 @@
 <p>&nbsp;</p>
 <h2>Download</h2>
 <p>You can download the latest version of SModel for Windows x64&nbsp;<a href="https://github.com/SModelFN/SModel/releases/latest/download/SModel.zip">here</a>. For x32 users, Support Will Begin Soon, Although I Do not really see the point for it because fortnite isn't even available on x32 Architecture&nbsp; I WILL NOT BE HELPING X32 USERS UNLESS THE ISSUE IS ALSO ON THE X64 VERSION&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Credits</h2>
+<p>This software uses these packages:</p>
+<ul>
+<li><a href="https://github.com/WorkingRobot/PakReader">PakReader</a>&nbsp;<em>Updated Version</em></li>
+<li><a href="https://github.com/ravibpatel/AutoUpdater.NET">AutoUpdater.NET</a></li>
+<li><a href="https://html-agility-pack.net/" rel="nofollow">Html Agility Pack (HAP)</a></li>
+<li><a href="https://www.newtonsoft.com/json" rel="nofollow">Newtonsoft Json.NET</a></li>
+<li><a href="https://github.com/caioproiete/ookii-dialogs-wpf">Ookii Dialogs</a></li>
+<li><a href="http://http//restsharp.org//" rel="nofollow">RestSharp</a></li>
+<li><a href="https://github.com/mono/SkiaSharp">SkiaSharp</a></li>
+<li><a href="https://github.com/DanPristupov/WpfExpressionBlendTheme">WPFThemes DarkBlend</a></li>
+<li><a href="https://github.com/reneschulte/WriteableBitmapEx">Writeable Bitmap Extensions</a></li>
+</ul>
+<p>Special Thanks To All These Amazing People:</p>
+<ul>
+<li><a href="https://twitter.com/FortniteBRLeaks" target="_blank" rel="noopener">@FortniteBRLeaks</a></li>
+<li><a href="https://twitter.com/Bonobex" target="_blank" rel="noopener">@Bonobex</a></li>
+<li><a href="https://twitter.com/JeloLeaks" target="_blank" rel="noopener">@JeloLeaks</a></li>
+<li><a href="https://twitter.com/Finnx_x01" target="_blank" rel="noopener">@Finnx_x01</a></li>
+<li><a href="https://twitter.com/AsvalFN" target="_blank" rel="noopener">@AsvalFN</a></li>
+</ul>
