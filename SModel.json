@@ -11,17 +11,17 @@
     },
     "Global_Messages": 
     {
-        "1.0.0.0": [
+        "1.0.0.0":[
             {
-                "Message" : "SModel Created By FortTellLeaks",
-                "Color" : "#6495ED",
-                "bNewLine": true
-            }
+                "Message" : "SModel",
+                "Color" : "#EFEFEF",
+                "bNewLine": false
+            },
             {
-                "Message" : "SYSTEM - SModel Updated For v12.00",
-                "Color" : "#6495ED",
-                "bNewLine": true
-            }
+                "Message" : "Update For v12.00 Successful",
+                "Color" : "#ED6464",
+                "bNewLine": false
+            },
         ],
         
     }
