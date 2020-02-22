@@ -13,49 +13,11 @@
     {
         "1.0.0.0": [
             {
-                "Message" : "Thank you for your patience",
-                "Color" : "#EFEFEF",
-                "bNewLine": true
-            }
-        ],
-        "1.0.0.0": [
-            {
-                "Message" : "FModel ",
-                "Color" : "#EFEFEF",
-                "bNewLine": false
-            },
-            {
-                "Message" : "will not work ",
-                "Color" : "#ED6464",
-                "bNewLine": false
-            },
-            {
-                "Message" : "if your game is running ",
-                "Color" : "#EFEFEF",
-                "bNewLine": false
-            },
-            {
-                "Message" : "the v12.0 build",
-                "Color" : "#DAA520",
-                "bNewLine": true
-            },
-            {
-                "Message" : "A fix is coming - meanwhile here's an unstable version ",
-                "Color" : "#EFEFEF",
-                "bNewLine": false
-            },
-            {
-                "Message" : "https://cdn.asval.tk/d/FModel/FModel.zip",
+                "Message" : "SModel Created By FortTellLeaks",
                 "Color" : "#6495ED",
                 "bNewLine": true
             }
         ],
-        "1.0.0.0": [
-            {
-                "Message" : "",
-                "Color" : "#EFEFEF",
-                "bNewLine": true
-            }
-        ]
+        
     }
 }
