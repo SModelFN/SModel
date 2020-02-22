@@ -17,6 +17,11 @@
                 "Color" : "#6495ED",
                 "bNewLine": true
             }
+            {
+                "Message" : "SYSTEM - SModel Updated For v12.00",
+                "Color" : "#6495ED",
+                "bNewLine": true
+            }
         ],
         
     }
