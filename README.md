@@ -1,6 +1,7 @@
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/SModelFN/SModel/master/Logo.png" alt="" width="512" height="512" /></p>
+<p style="padding-left: 90px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/SModelFN/SModel/master/Logo.png" alt="" width="512" height="512" /></p>
+<h1 style="text-align: center;">SModel</h1>
 <h1 style="text-align: center;">The Most Advanced Fortnite Pak Explorer</h1>
-<h2 style="text-align: center;">Created By - FortTellLeaks</h2>
+<h2 style="text-align: center;">Created By - <a href="https://twitter.com/FortTellLeaks" target="_blank" rel="noopener">FortTellLeaks</a></h2>
 <p>&nbsp;</p>
 <h2>Key Features</h2>
 <ul>
