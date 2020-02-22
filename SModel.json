@@ -13,27 +13,59 @@
     {
         "1.0.0.0": [
             {
-                "Message" : "SModel - FortTellLeaks",
+                "Message" : "",
                 "Color" : "#EFEFEF",
                 "bNewLine": true
             }
         ],
         "1.0.0.1": [
             {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": false
+            },
+            {
+                "Message" : "",
+                "Color" : "#ED6464",
+                "bNewLine": false
+            },
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": false
+            },
+            {
+                "Message" : "",
+                "Color" : "#DAA520",
+                "bNewLine": true
+            },
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": false
+            },
+            {
+                "Message" : "",
+                "Color" : "#6495ED",
+                "bNewLine": true
+            }
+        ],
+        "1.0.0.2": [
+            {
                 "Message" : "Added LunakisLeaks",
-                "Color" : "#1E8449",
+                "Color" : "#EFEFEF",
                 "bNewLine": true
             },
             {
                 "Message" : "Added Resources To Server",
-                "Color" : "#1E8449",
+                "Color" : "#EFEFEF",
                 "bNewLine": true
             },
             {
                 "Message" : "Removed AES Manager",
-                "Color" : "#E74C3C",
+                "Color" : "#EFEFEF",
                 "bNewLine": true
-            },
+            }
         ]
     }
 }
