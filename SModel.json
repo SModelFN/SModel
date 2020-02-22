@@ -19,8 +19,8 @@
             },
             {
                 "Message" : "Update For v12.00 Successful",
-                "Color" : "#ED6464",
-                "bNewLine": false
+                "Color" : "	#008000",
+                "bNewLine": true
             },
         ],
         
