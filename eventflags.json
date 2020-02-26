@@ -1,0 +1,228 @@
+{
+    "channels": {
+        "standalone-store": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [],
+                    "state": {
+                        "activePurchaseLimitingEventIds": [],
+                        "storefront": {},
+                        "storeEnd": "0001-01-01T00:00:00.000Z"
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        },
+        "client-matchmaking": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [],
+                    "state": {
+                        "region": {
+                            "OCE": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_DefaultDuo"
+                                ]
+                            },
+                            "CN": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_DefaultDuo",
+                                    "Playlist_Deimos_DuoCN"
+                                ]
+                            },
+                            "REGIONID": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_Deimos_Duo_WinterCN"
+                                ]
+                            }
+                        }
+                    }
+                },
+                {
+                    "validFrom": "2020-02-25T19:00:00.000Z",
+                    "activeEvents": [],
+                    "state": {
+                        "region": {
+                            "OCE": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_DefaultDuo"
+                                ]
+                            },
+                            "CN": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_DefaultDuo",
+                                    "Playlist_Deimos_DuoCN"
+                                ]
+                            },
+                            "REGIONID": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_Deimos_Duo_WinterCN"
+                                ]
+                            },
+                            "ASIA": {
+                                "eventFlagsForcedOff": [
+                                    "Playlist_DefaultDuo"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        },
+        "tk": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [],
+                    "state": {
+                        "k": []
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        },
+        "featured-islands": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [],
+                    "state": {
+                        "islandCodes": [
+                            "1563-3988-3293",
+                            "1610-1841-0857",
+                            "2454-6346-3211",
+                            "3037-9627-3354",
+                            null,
+                            "7424-8966-1192"
+                        ],
+                        "playlistCuratedContent": {},
+                        "playlistCuratedHub": {
+                            "Playlist_PlaygroundV2": "9553-8011-2185",
+                            "Playlist_Creative_PlayOnly": "9553-8011-2185"
+                        },
+                        "islandTemplates": [
+                            "0000-0000-0106",
+                            "0000-0000-0113",
+                            "0000-0000-0110",
+                            "0000-0000-0109",
+                            "0000-0000-0107",
+                            "0000-0000-0112"
+                        ]
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        },
+        "community-votes": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [],
+                    "state": {
+                        "electionId": "",
+                        "candidates": [],
+                        "electionEnds": "9999-12-31T23:59:59.999Z",
+                        "numWinners": 1
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        },
+        "client-events": {
+            "states": [
+                {
+                    "validFrom": "2020-02-25T18:56:54.688Z",
+                    "activeEvents": [
+                        {
+                            "eventType": "EventFlag.LobbySeason11",
+                            "activeUntil": "2020-02-29T15:00:00.000Z",
+                            "activeSince": "2019-10-14T13:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.BBPromo.Quests",
+                            "activeUntil": "2090-02-14T00:00:00.000Z",
+                            "activeSince": "2019-11-19T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Season12.NoDancing.Quests",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-06T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Season12",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.ActiveMiniBosses",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.PassiveStorms",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.ElementalZone.Fire",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.ElementalZone.Nature",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.ElementalZone.Water",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.MissionAlert.MegaAlert",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-09T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Wargames.Start",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-20T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.Outpost",
+                            "activeUntil": "2020-04-04T00:00:00.000Z",
+                            "activeSince": "2020-01-20T00:00:00.000Z"
+                        },
+                        {
+                            "eventType": "EventFlag.LobbySeason12",
+                            "activeUntil": "2020-05-15T14:00:00.000Z",
+                            "activeSince": "2020-02-17T14:00:00.000Z"
+                        }
+                    ],
+                    "state": {
+                        "activeStorefronts": [],
+                        "eventNamedWeights": {},
+                        "activeEvents": [],
+                        "seasonNumber": 12,
+                        "seasonTemplateId": "AthenaSeason:athenaseason12",
+                        "matchXpBonusPoints": 0,
+                        "eventPunchCardTemplateId": "",
+                        "seasonBegin": "2020-02-17T14:00:00Z",
+                        "seasonEnd": "2020-05-15T14:00:00Z",
+                        "seasonDisplayedEnd": "2020-04-30T04:00:00Z",
+                        "weeklyStoreEnd": "0001-01-01T00:00:00.000Z",
+                        "stwEventStoreEnd": "2020-04-04T00:00:00.000Z",
+                        "stwWeeklyStoreEnd": "2020-02-27T00:00:00.000Z",
+                        "dailyStoreEnd": "2020-02-26T00:00:00Z"
+                    }
+                }
+            ],
+            "cacheExpire": "2020-02-25T20:56:54.688Z"
+        }
+    },
+    "cacheIntervalMins": 15,
+    "currentTime": "2020-02-25T19:25:12.744Z"
+}
